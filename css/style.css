@@ -15,6 +15,10 @@ body {
   margin: 1rem;
   color: #454959;
   font: 300 100%/1.5 'Work Sans', sans-serif;
+  background-image: url(http://placekitten.com/200/300);
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 400px 600px;
 } 
 a {
   color: #cc4e13;
